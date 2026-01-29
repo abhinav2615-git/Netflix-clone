@@ -53,6 +53,14 @@ header {
     color: white;
     text-align: center;
     margin-top: 50px;
-    font-size: 50px;
+    font-size: 70px;
     font-family: "Georgia", serif;
+    height: 155px;
+}
+
+#price-intro{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
 }
