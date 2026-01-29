@@ -64,3 +64,17 @@ header {
     font-size: 20px;
     margin-top: 10px;
 }
+
+#membership-line{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#email{
+    text-align: center;
+    margin-top: 10px;
+    width: 350px;
+    height: 55px;
+}
