@@ -19,7 +19,7 @@ body {
 header {
     display: flex;
     align-items: center;
-    background: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 #sign-in {
@@ -46,5 +46,13 @@ header {
     background-color: rgba(24, 22, 22, 0.912);
     color: aliceblue;
     border-radius: 5px;
+    font-family: "Georgia", serif;
+}
+
+#intro pre{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
     font-family: "Georgia", serif;
 }
