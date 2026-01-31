@@ -104,3 +104,14 @@ header {
     border-radius: 5px;
     color: white;
 }
+#trending-movies{
+    color: white;
+    padding-left: 150px;
+    font-size: 30px;
+}
+
+#parent{
+    display: flex;
+    flex-direction: column;
+    gap: 200px;
+}
