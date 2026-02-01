@@ -116,6 +116,10 @@ header {
     font-size: 30px;
 }
 
+#trending-numbers{
+    font-size: 20px;
+}
+
 #parent {
     display: flex;
     flex-direction: column;
@@ -124,6 +128,7 @@ header {
 
 #trending-heading {
     padding-bottom: 50px;
+    font-size: 50px;
 }
 
 #strangersT {
@@ -161,7 +166,7 @@ header {
 
 
 #dhurandhar{
-    height: 300px;
+    height: 290px;
     width: 200px;
     border-radius: 10px;
     padding-left: 50px;
@@ -170,6 +175,36 @@ header {
 
 
 #dhurandhar:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+
+#kapil-show{
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 50px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+#kapil-show:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+
+#jolly3{
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 50px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+#jolly3:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
