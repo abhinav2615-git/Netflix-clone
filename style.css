@@ -242,6 +242,7 @@ header {
     padding-left: 100px;
     color: white;
     font-size: 35px;
+    background-color: black;
 }
 
 
@@ -306,4 +307,11 @@ header {
     height: 60px;
     padding-top: 25px;
     border-radius: 5px;
+}
+
+
+#ending{
+    padding-top: 20px;
+    color: white;
+    background-color: black;
 }
