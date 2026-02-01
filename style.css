@@ -120,7 +120,7 @@ header {
     font-size: 20px;
 }
 
-#parent {
+#parent1{
     display: flex;
     flex-direction: column;
     gap: 200px;
@@ -207,4 +207,26 @@ header {
 #jolly3:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+
+#more-reasons{
+    color: white;
+    padding-left: 150px;
+    font-size: 40px;
+}
+
+
+#enjoy-tv{
+    font-family: "Georgia", serif;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 10px;
+    color: white;
+    margin-left: 150px;
+    border-radius: 10px;
+    background: #5c158f;
+    background: linear-gradient(90deg, rgba(92, 21, 143, 1) 0%, rgba(9, 9, 121, 1) 100%, rgba(33, 5, 174, 1) 100%, rgba(0, 212, 255, 1) 100%);
+    width: 270px;
+    height: 280px;
 }
