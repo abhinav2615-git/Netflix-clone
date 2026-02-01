@@ -142,3 +142,19 @@ header {
 #trending-positon-1 {
     color: white;
 }
+
+
+
+#wednesday{
+    height: 300px;
+    width: 200px;
+    padding-left: 50px;
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+#wednesday:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
