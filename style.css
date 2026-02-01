@@ -242,7 +242,6 @@ header {
     padding-left: 100px;
     color: white;
     font-size: 35px;
-    /* background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%); */
 }
 
 
@@ -261,6 +260,42 @@ header {
 
 
 #q2{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 30px;background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 900px;
+    height: 60px;
+    padding-top: 25px;
+    border-radius: 5px;
+}
+#q3{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 30px;background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 900px;
+    height: 60px;
+    padding-top: 25px;
+    border-radius: 5px;
+}
+#q4{
+    margin-top: 10px;
+    margin-left: 100px;
+    padding-left: 50px;
+    color: white;
+    font-size: 30px;background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 900px;
+    height: 60px;
+    padding-top: 25px;
+    border-radius: 5px;
+}
+#q5{
     margin-top: 10px;
     margin-left: 100px;
     padding-left: 50px;
